@@ -1,4 +1,4 @@
-module github.com/aloknerurkar/conn-pool
+module github.com/plexsysio/conn-pool
 
 go 1.14
 
